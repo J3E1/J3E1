@@ -1,12 +1,20 @@
 <h1>Hey there! 👋 Nice to see U.</h1>
 
-**MERN Stack Developer | Full-Stack Enthusiast | Cloud Explorer 🌟**
+<h3>Full Stack Developer from India, turning concepts into reality through code! 🚀</h3>
+
+<p> <img src="assets/hero.png" align="right" alt="Coding" height="180"/> </p>
 
 <p>Welcome to my corner of GitHub, where code meets creativity! 🤩</p>
 
-<p>I'm a passionate developer from India, with a strong desire to learn and create something new every day. 💻</p>
+- 🎯 I’m currently working on **Web Application & SAAS**
 
-<p>Currently learning Rust 🦀</p>
+- 🚀 I’m currently learning **Rust 🦀**
+
+- 🤝 I’m looking for help with **Learning New Technologies and Best Practices**
+
+- 💬 Ask me about **Web Development, React, Svelte**
+
+- 📲 Reach me **khumanjeel@gmail.com**
 
 <h2>Tools I Love Working With 🛠️</h2>
 
