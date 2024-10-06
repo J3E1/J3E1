@@ -16,7 +16,7 @@
 
 - 📲 Reach me **khumanjeel@gmail.com**
 
-<h2>Tools I Love Working With 🛠️</h2>
+<h2>Tech I Love Working With 🛠️</h2>
 
 ![TypeSript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
