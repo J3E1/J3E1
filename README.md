@@ -4,7 +4,7 @@
 
 <p>Welcome to my corner of GitHub, where code meets creativity! 🤩</p>
 
-<p> <img src="assets/hero.png" align="right" alt="Coding" height="180"/> </p>
+<p> <img src="assets/hero.png" align="right" alt="Coding" height="170"/> </p>
 
 - 🎯 I’m currently working on **Web Application & SAAS**
 
