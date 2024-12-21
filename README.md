@@ -42,14 +42,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h2>Stats ⚡</h2>
-<br>
-<div>
-  <img height=190 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=J3E1&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="margin-right: 10px" />
-  <img height=190 src="https://github-readme-streak-stats-salesp07.vercel.app?user=J3E1&theme=dark&mode=weekly&border_radius=10" alt="streak stats"/>
-  <br/>
-</div>
-
 <h2>Connect with me 📲</h2>
 
 <a href="mailto:khumanjeel@gmail.com" target="_blank">
