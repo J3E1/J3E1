@@ -1,52 +1,65 @@
-<h1>Hey there! 👋 Nice to see U.</h1>
+# Hi, I'm Jeel — I build products for the web
 
-<h3>Full Stack Developer from India, turning concepts into reality through code! 🚀</h3>
+Full-stack developer from India, focused on turning product ideas into polished,
+useful software. I enjoy owning the whole journey: shaping an interface, designing
+the data model, building the API, and shipping the result.
 
-<p>Welcome to my corner of GitHub, where code meets creativity! 🤩</p>
+My sweet spot is **TypeScript + React/Next.js**, especially SaaS products,
+real-time experiences, and dashboards. Away from the main stack, I am exploring
+Rust and sharpening the engineering practices that make software easier to
+maintain.
 
-<p> <img src="assets/hero.png" align="right" alt="Coding" height="170"/> </p>
+## Selected work
 
-- 🎯 I’m currently working on **Web Application & SAAS**
+### [TapBack](https://github.com/J3E1/tapback)
 
-- 🚀 I’m currently learning **Rust 🦀**
+[![TapBack feedback dashboard](assets/images/tapback.png)](
+https://github.com/J3E1/tapback)
 
-- 🤝 I’m looking for help with **Learning New Technologies and Best Practices**
+A feedback-widget SaaS with multi-project management, customization, analytics,
+and a simple website embed.
 
-- 💬 Ask me about **Web Development, React, Svelte**
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
 
-- 📲 Reach me **khumanjeel@gmail.com**
+[Live app](https://tapback.vercel.app/) ·
+[Source](https://github.com/J3E1/tapback)
 
-<h2>Tech I Love Working With 🛠️</h2>
+### [Artechbid](https://github.com/J3E1/artechbid)
 
-![TypeSript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![Artechbid digital art auction platform](assets/images/artechbid.png)](
+https://github.com/J3E1/artechbid)
 
-<h2>Connect with me 📲</h2>
+A digital-art auction platform with live bidding, countdowns, outbid
+notifications, uploads, and user profiles.
 
-<a href="mailto:khumanjeel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/jeel-khuman/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+`Next.js` · `TypeScript` · `Firebase` · `NextAuth`
+
+[Source](https://github.com/J3E1/artechbid)
+
+More things I've built:
+
+- [Real-time opinion word cloud](https://github.com/J3E1/realtime-voting) —
+  collaborative input powered by Socket.IO and MongoDB.
+- [Litter](https://github.com/J3E1/twitter-clone-next-14) — a full-stack
+  social app with profiles, posts, media, follows, and notifications.
+- [careX](https://github.com/J3E1/careX) — a cyberpunk-styled patient
+  appointment manager.
+
+## How I work
+
+```text
+idea → interface → data model → API → production
+```
+
+I care about clear product flows, maintainable systems, and the small details that
+make software feel considered. My regular toolkit includes TypeScript, React,
+Next.js, Node.js, Tailwind CSS, PostgreSQL, MongoDB, Prisma, Firebase, and Redis.
+
+## Let's connect
+
+I am always happy to talk about web products, engineering ideas, and interesting
+problems.
+
+[Email me](mailto:khumanjeel@gmail.com) ·
+[Connect on LinkedIn](https://www.linkedin.com/in/jeel-khuman/) ·
+[Explore my repositories](https://github.com/J3E1?tab=repositories)
